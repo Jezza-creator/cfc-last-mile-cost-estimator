@@ -1,0 +1,23 @@
+code,description,amount_ex_gst
+EW,Excess Weight,0.00
+CW,Chargeable Weight,0.00
+MM,Manual Measurement,11.11
+OWS_56_TO_90,Overweight Surcharge 56kg to 90kg,20.60
+OWS_90_PLUS,Overweight Surcharge 90kg and over,51.50
+OIS_1_20_TO_1_80,Oversized Item Surcharge 1.20m to 1.80m,0.00
+OIS_1_80_TO_2_20,Oversized Item Surcharge 1.80m to 2.20m,0.00
+OIS_2_21_TO_3_60,Oversized Item Surcharge 2.21m to 3.60m,51.50
+OIS_3_60_TO_6_00,Oversized Item Surcharge 3.60m to 6.00m,360.50
+TL,Tail Lift,49.45
+HU,Hand Unload,52.74
+WT,Waiting Time,11.29
+FT,Futile Pickup,18.55
+TSA,Time Slot Delivery,0.00
+MPFEE,Minimum Pickup Fee,35.07
+OBH,Outside Business Hours,0.00
+DGC,Dangerous Goods,29.72
+SS,Short Shipped,0.00
+RD,Re-Delivery,0.00
+RTS,Return to Sender,0.00
+MW,Minimum Weight Skids/Pallets,0.00
+FSC,Fuel Surcharge,0.00

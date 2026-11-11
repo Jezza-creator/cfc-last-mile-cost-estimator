@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/
+.env
+.env.*
+.DS_Store
+# Local operational data and generated files
+data/inputs/
+outputs/
+*.log
+*.tmp
+*.zip
+.pytest_cache/
+.pytest-tmp/
+pytest-cache-files-*/
+
+# Local investigation files and raw working extracts
+Powershell_scripts_Jezza.txt
+remote_area_raw.txt
+table_output.txt
+tmp_query_cp.py
+notebooks/australia_post_fy2027_w01_w05_w09_w11_completeness.ipynb

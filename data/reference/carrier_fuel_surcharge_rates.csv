@@ -1,0 +1,13 @@
+carrier,service,start_date,end_date,fuel_surcharge_pct,source_note
+GoPeople,GoEXPRESS,2026-07-20,2026-08-02,1.17,GoPeople FSC sheet
+GoPeople,GoEXPRESS,2026-08-03,2026-08-16,3.00,GoPeople FSC sheet
+GoPeople,GoEXPRESS,2026-08-17,2026-08-30,6.14,GoPeople FSC sheet
+Australia Post,eParcel,2026-01-01,2026-01-31,6.20,Australia Post published FSC schedule
+Australia Post,eParcel,2026-02-01,2026-02-28,6.70,Australia Post published FSC schedule
+Australia Post,eParcel,2026-03-01,2026-03-31,5.20,Australia Post published FSC schedule
+Australia Post,eParcel,2026-04-01,2026-04-22,4.80,Australia Post published FSC schedule
+Australia Post,eParcel,2026-04-23,2026-05-31,12.00,Australia Post published FSC schedule
+Australia Post,eParcel,2026-06-01,2026-06-30,19.50,Australia Post published FSC schedule
+Australia Post,eParcel,2026-07-01,2026-07-31,12.30,Australia Post published FSC schedule
+Australia Post,eParcel,2026-08-01,2026-08-31,9.90,Australia Post published FSC schedule
+Australia Post,eParcel,2026-09-01,2026-09-30,6.90,Australia Post published FSC schedule
